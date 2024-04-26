@@ -12,7 +12,8 @@ This project implements a pipelined 4-bit Ripple Carry Adder (RCA) using Verilog
 
 ## Schematic
 
-![Schematic](/path/to/schematic_image.png)
+![Schematic](https://github.com/Nilesh002/Pipelined_RCA/assets/105161049/1aa87d17-21df-4a9e-874f-afb1949342d9)
+
 
 Caption: Schematic diagram of the pipelined 4-bit RCA.
 
@@ -20,7 +21,8 @@ Caption: Schematic diagram of the pipelined 4-bit RCA.
 
 ### Waveform
 
-![Waveform](/path/to/waveform_image.png)
+![Simulation Waveform](https://github.com/Nilesh002/Pipelined_RCA/assets/105161049/92971785-4aee-43b6-ad80-58b18517f62c)
+
 
 Caption: Simulation waveform showing the behavior of the pipelined 4-bit RCA.
 
