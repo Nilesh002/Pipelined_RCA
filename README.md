@@ -10,6 +10,20 @@ This project implements a pipelined 4-bit Ripple Carry Adder (RCA) using Verilog
 - 4-bit RCA implementation.
 - Designed for Xilinx Vivado.
 
+## Schematic
+
+![Schematic](/path/to/schematic_image.png)
+
+Caption: Schematic diagram of the pipelined 4-bit RCA.
+
+## Simulation Results
+
+### Waveform
+
+![Waveform](/path/to/waveform_image.png)
+
+Caption: Simulation waveform showing the behavior of the pipelined 4-bit RCA.
+
 ## Usage
 
 ### Requirements
@@ -48,7 +62,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - [Nilesh Poojari](https://github.com/Nilesh002)
 
-## Acknowledgments
-
-- This project is inspired by the need for high-throughput arithmetic operations in digital design.
-- Thanks to Xilinx for providing Vivado for FPGA development.
